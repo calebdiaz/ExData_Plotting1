@@ -6,7 +6,7 @@ Exploratory Data Analysis - First Course Project
 
 from Linux shell:
 
-rm plot*.png
+rm plot*.png;
 R CMD BATCH plot_all.r
 
 ##Files
